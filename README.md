@@ -16,4 +16,4 @@ It provides users with disposal guidelines based on the specific waste category,
 5. The application sends the trash photo to the server for processing and server receives the photo from We and uses the trash detection model to analyze the image and classify the trash as organic or recyclable.
 6. The application receives the classification prediction from the server. We sees the prediction result on our mobile screen.The prediction output includes the type of trash (organic or recyclable) and recommendations for proper handling.
 
-For this project, we first use a Hierarhical Data Format 5 (H5) and generate our own dataset. From the datasets we create, we train our model and get 85% accuracy. Refers to 
+For this project, we first use a Hierarhical Data Format 5 (H5) and generate our own dataset. From the datasets we create, we train our model and get 85% accuracy. Refers to https://github.com/CleanSort-C23-PR511-Bangkit-2023/Machine-Learning/blob/master/CNN_FIX.ipynb
