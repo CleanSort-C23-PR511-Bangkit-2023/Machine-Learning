@@ -26,8 +26,8 @@ For this project, we first use a Hierarhical Data Format 5 (H5) and generate our
 
 ## Process
 1. Data collection, collecting data about the waste to be classified.
-2.Data Preprocessing, which involves preprocessing data data cleaning.
+2. Data Preprocessing, which involves preprocessing data data cleaning.
 3. Creation Of Classification Features, choose the most relevant features for use in waste classification.
-4.Training Model with TensorFlow is the process of training or teaching machine learning models using the TensorFlow library.
+4. Training Model with TensorFlow is the process of training or teaching machine learning models using the TensorFlow library.
 5. Evaluation of the model, evaluate the performance of the model where to measure the extent where the model can classify the waste correctly.
 6. Implementation, if the model has good performance then the model can implemented in the system.
