@@ -22,3 +22,12 @@ Machine Learning : Building models with TensorFlow lite and tensorflow. Js, usin
 6. The application receives the classification prediction from the server. We sees the prediction result on our mobile screen.The prediction output includes the type of trash (organic or recyclable) and recommendations for proper handling.
 
 For this project, we first use a Hierarhical Data Format 5 (H5) and generate our own dataset. From the datasets we create, we train our model and get 85% accuracy. Refers to https://github.com/CleanSort-C23-PR511-Bangkit-2023/Machine-Learning/blob/master/CNN_FIX.ipynb
+
+
+## Process
+1. Data collection, collecting data about the waste to be classified.
+2.Data Preprocessing, which involves preprocessing data data cleaning.
+3. Creation Of Classification Features, choose the most relevant features for use in waste classification.
+4.Training Model with TensorFlow is the process of training or teaching machine learning models using the TensorFlow library.
+5. Evaluation of the model, evaluate the performance of the model where to measure the extent where the model can classify the waste correctly.
+6. Implementation, if the model has good performance then the model can implemented in the system.
