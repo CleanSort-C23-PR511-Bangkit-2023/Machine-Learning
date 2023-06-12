@@ -4,7 +4,7 @@ CleanSort APP is a smart waste detection and classification application that uti
 The app is designed to identify and categorize different types of waste materials accurately. 
 It provides users with disposal guidelines based on the specific waste category, promoting responsible waste disposal practices.
 
-Machine Learning: building models with TensorFlow lite and tensorflow. Js, using data pipeline to serve the models, and preprocess the data using Missing Values Imputation.
+Machine Learning : Building models with TensorFlow lite and tensorflow. Js, using data pipeline to serve the models, and preprocess the data using Missing Values Imputation.
 
 ## Overview
 ![image](https://github.com/CleanSort-C23-PR511-Bangkit-2023/Machine-Learning/assets/96606602/15fdb320-afe9-4f55-a8c8-a75a88a981b7)
