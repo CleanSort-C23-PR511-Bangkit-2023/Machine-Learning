@@ -8,7 +8,7 @@ It provides users with disposal guidelines based on the specific waste category,
 ![image](https://github.com/CleanSort-C23-PR511-Bangkit-2023/Machine-Learning/assets/96606602/15fdb320-afe9-4f55-a8c8-a75a88a981b7)
 ![image](https://github.com/CleanSort-C23-PR511-Bangkit-2023/Machine-Learning/assets/96606602/63b28f4c-b09a-4f91-95e3-133af2956c1e)
 
-![sampah1](https://github.com/CleanSort-C23-PR511-Bangkit-2023/Machine-Learning/assets/126807857/77f57af2-0362-4952-893d-7e2cde0b2ef2)
+![sampah2](https://github.com/CleanSort-C23-PR511-Bangkit-2023/Machine-Learning/assets/126807857/06fd9697-34ce-4d9b-8583-655e24309830)
 ![0w](https://github.com/CleanSort-C23-PR511-Bangkit-2023/Machine-Learning/assets/126807857/9cbae19c-5a91-4bbc-8dd5-55aac3615535)
 
 **program flow is as follows:**
